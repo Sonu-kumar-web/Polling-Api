@@ -1,0 +1,18 @@
+{
+  "name": "polling-system",
+  "version": "1.0.0",
+  "description": "polling System api for different questions",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sonu kumar",
+  "license": "ISC"
+}
